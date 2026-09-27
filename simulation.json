@@ -1,5 +1,5 @@
 {
-  "sources": ["src/design.v"],
-  "testbench": "sim/tb_design.v",
-  "simulation_top": "tb_design"
+    "sources": ["src/lab3_piezo.v"],
+    "testbench": "sim/tb_piezo.sv",
+    "simulation_top": "tb_piezo"
 }
